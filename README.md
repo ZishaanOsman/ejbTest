@@ -1,0 +1,2 @@
+# ejbTest
+Java enterprise practice
